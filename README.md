@@ -67,5 +67,5 @@ A análise de fatores de causa dos eventos, tipo de armamento, políticas ligada
 
 ## 2. Conclusão
  Com base nas perguntas previamente apresentadas e com a análise feita conforme a metodologia selecionada, conclui-se que em primeiro lugar, os três estados mais perigosos podem ser considerados Connecticut, Flórida e Texas. Assim, também entende-se que as ocorrências de tiroteios em escolas foram em sua maioria nas áreas urbanas. Por fim, nota-se um aumento significativo no número de ocorrências ao longo dos anos.
- Demais análises, que buscam responder cada uma das questões previamente levantadas podem ser encontradas no [Relatório](https://github.com/thuurtx/AtentadoEscolasAmericanas/blob/main/Relatorio_Final.pdf) e no [Pbix](https://github.com/thuurtx/AtentadoEscolasAmericanas/blob/main/AtentadosEscolasAmericanas.pbix).
+ Demais análises, que buscam responder cada uma das questões previamente levantadas podem ser encontradas no [Relatório](https://github.com/thuurtx/AtentadoEscolasEUA/blob/main/Relatorio_Final.pdf) e no [Pbix](https://github.com/thuurtx/AtentadoEscolasAmericanas/blob/main/AtentadosEscolasAmericanas.pbix).
  
